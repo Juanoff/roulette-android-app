@@ -1,8 +1,6 @@
 # Roulette
 
-A spinning wheel with numbers or icons. When the wheel stops, the selected value is displayed.  
-When wheel rotation is not available (e.g., lack of visual rotation capability), a horizontally
-positioned text field or icon moves along an arc.
+The roulette wheel contains dynamically generated sectors with different colors and values. During wheel rotation the application calculates the resulting sector and displays the selected value after animation completion.
 
 <img src="screenshots/1.jpg" width="250">  <img src="screenshots/2.jpg" width="250">
 
