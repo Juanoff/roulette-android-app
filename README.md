@@ -4,8 +4,7 @@ A spinning wheel with numbers or icons. When the wheel stops, the selected value
 When wheel rotation is not available (e.g., lack of visual rotation capability), a horizontally
 positioned text field or icon moves along an arc.
 
-<img src="screenshots/1.jpg" width="250">
-<img src="screenshots/2.jpg" width="250">
+<img src="screenshots/1.jpg" width="250">  <img src="screenshots/2.jpg" width="250">
 
 ## Features
 
